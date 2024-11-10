@@ -12,4 +12,4 @@
 ---
 🌐 Connect
 
-[Github](https://cosmin-marian.vercel.app/)
+[Portfolio](https://cosmin-marian.vercel.app/)
