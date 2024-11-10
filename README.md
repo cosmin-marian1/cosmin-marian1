@@ -5,4 +5,4 @@ I'm a 19-year-old engineering student and passionate developer with experience i
 🔧 Skills & Tools
 
 🌐 Connect
-[Link Text](cosmin-marian.vercel.app)
+-[Github](www.cosmin-marian.vercel.app)
