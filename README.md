@@ -1,7 +1,6 @@
 ## Cosmin Marian
 
-## 👋 I'm a 20-year-old engineering student and passionate developer with experience in creating interactive web and gaming applications. I enjoy working with React for building dynamic user interfaces and have skills in backend development using Node.js and MongoDB. My main interests are in UI/UX design, game development, and animations, where I can combine technical expertise with visual creativity.
-
+## I'm a 21-year-old engineering student and passionate developer, bridging the gap between interactive web applications and the physical world. I enjoy building dynamic user interfaces with React and robust backends using Node.js and MongoDB. Recently, I've expanded my expertise into embedded systems, building IoT projects with ESP32 microcontrollers, sensors, and RF modules. My main interests lie in UI/UX design, and hardware-software integration, where I can combine technical engineering with visual creativity.
 
 ---
 
