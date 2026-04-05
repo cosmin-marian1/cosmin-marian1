@@ -8,4 +8,4 @@ My focus lies at the intersection of **Software Development, AI, and Hardware**.
 ### Connect
 
 [Portfolio](https://cosmin-marian.vercel.app/)
-[email]cosmin.rosu2005@gmail.com
+[email](cosmin.rosu2005@gmail.com)
